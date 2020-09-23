@@ -1,0 +1,3 @@
+you have to copy the directory "Recherche" into "C:\Mes documents\vbasic" directory. If it does not exist, create it.
+
+enjoy.
